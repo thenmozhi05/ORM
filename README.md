@@ -50,6 +50,7 @@ admin.site.register(BOOk,BookAdmin)
 ## OUTPUT
 ![alt text](image.png)
 ![alt text](<Screenshot 2024-03-17 233911.png>)
+![alt text](<Screenshot 2024-03-18 225821.png>)
 Include the screenshot of your admin page.
 
 
