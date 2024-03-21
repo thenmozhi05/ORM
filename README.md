@@ -7,7 +7,7 @@ To develop a Django application to store and retrieve data from a Book database 
 ## Entity Relationship Diagram
 
 Include your ER diagram here
-
+![alt text](<Screenshot 2024-03-18 225821.png>)
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -50,7 +50,6 @@ admin.site.register(BOOk,BookAdmin)
 ## OUTPUT
 ![alt text](image.png)
 ![alt text](<Screenshot 2024-03-17 233911.png>)
-![alt text](<Screenshot 2024-03-18 225821.png>)
 Include the screenshot of your admin page.
 
 
